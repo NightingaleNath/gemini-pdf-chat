@@ -44,7 +44,7 @@ The application follows these steps to provide responses to your questions:
 
 - **File Compatibility**: Supports both PDF and TXT file formats.
 
-- **LLM Model Compatibility**: Supports Google Gemini Pro, OpenAI GPT 3, Anthropic Claude, Llama2 and other open-source LLMs.
+- **LLM Model Compatibility**: Supports Google Gemini Pro, Anthropic Claude, Llama2 and other open-source LLMs.
 
 ![Demo 3: Chatbot Output](img/LLMAgents.jpg)
 
